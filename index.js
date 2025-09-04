@@ -14,12 +14,3 @@ const countDown=(num)=>{
         console.log(num--)
     }
 }
-
-const count2=(num)=>{
-    for(let i=0;i<num;num--){
-        console.log(num)
-    }
-}
-
-count2(10)
-// countDown(10)
